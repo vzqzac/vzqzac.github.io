@@ -141,25 +141,25 @@ ul.social-icons li a:hover {
 #skills .span5 h3 span {
 	float:right;
 }
-.ps2 {
-	width:90%;
+.cpp {
+	width:70%;
 	background:#30a5dc;
 	-moz-animation:html5 2s ease-out;
 	-webkit-animation:html5 2s ease-out;
 }
-.ai2 {
-	width:80%;
+.ror {
+	width:50%;
 	background:#ee742b;
 	-moz-animation:css3 2s ease-out;
 	-webkit-animation:css3 2s ease-out;
 }
-.html2 {
-	width:75%;
+.js {
+	width:70%;
 	background:#f04949;
 	-moz-animation:jquery 2s ease-out;
 	-webkit-animation:jquery 2s ease-out;
 }
-.css2 {
+.arduino {
 	width:85%;
 	background:#39d084;
 	-moz-animation:photoshop 2s ease-out;

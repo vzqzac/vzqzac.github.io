@@ -1,4 +1,1 @@
-flatfolio
-=========
-
-Responsive Bootstrap Portfolio Theme
+# Check out my personal page! http://vzqzac.github.io
